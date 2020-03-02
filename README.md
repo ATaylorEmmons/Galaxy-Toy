@@ -1,6 +1,8 @@
 # Galaxy-Toy
 A model 2D galaxy using a GPU Particle System.
-Use the W and S keys to interact.
+
+### Controls
+Use the W and S keys to interact. This adjusts the phase. Loosely it is a rotation of the camera about the center ofthe galaxy.
 
 ## To Do's
 
