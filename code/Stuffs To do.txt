@@ -1,0 +1,9 @@
+|Stuffs To Do|
+________________
+Make a better motion equation
+-The particles aren't attracted to the center 
+ as a function of distance but rather time
+ so the whole galaxy scales and not just 
+ the middle.
+
+Apply a blur effect to give nebulousess
